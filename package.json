@@ -1,5 +1,5 @@
 {
-    "description": "wasisession",
+    "description": "freezersession",
     "main": "./freezer.js",
   "engines" : { 
     "npm" : ">=9.7.2",
